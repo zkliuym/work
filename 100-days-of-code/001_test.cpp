@@ -102,7 +102,7 @@ int main()
     memcpy(g_pChar, "helloworld", 11);
     std::cout << "&p2 address is: " << (void*)&p2 << std::endl;
     std::cout << "&p2 value is: " << (void*)*p2 << std::endl;
-    std::cout << p2 << std::endl;
+    //std::cout << p2 << std::endl;
 
     char *p3 = "123456"; //123456\0在常量区，p3在栈上。 
     std::cout << "&p3 address is: " << (void*)&p3 << std::endl;
