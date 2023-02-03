@@ -18,10 +18,10 @@
 **Link(s) to work**: [100-days-of-code](https://github.com/zkliuym/work)
 
 
-### Day 2: October 12, 2022
+### Day 2: February 3, 2023
 
-**Today's Progress**: .
+**Today's Progress**: 定长数组快速插入数据、求和、求平均
 
 **Thoughts** .
 
-**Link(s) to work**:
+**Link(s) to work**:[100-days-of-code](https://github.com/zkliuym/work)
